@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/uim-risk
+uim-risk.so
+uim-risk.dylib
+uim-risk.dll
+uim-risk.a
+uim-risk.lib
+uim-risk-test-*
+*.exe
+*.o
+*.obj
+*.lst
