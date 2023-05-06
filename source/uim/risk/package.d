@@ -1,9 +1,7 @@
 module uim.risk;
 
 // Phobos libraries
-public import std.stdio;
-public import std.string;
-public import std.uuid;
+mixin(ImportPhobos!());
 
 // UIM libraries
 public import uim.core;
